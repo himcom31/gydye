@@ -1,0 +1,89 @@
+/* PaymentComponent.css */
+
+/* General Styles */
+.container {
+    max-width: 1200px;
+    margin-top: 30px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  /* Order Summary */
+  .order-summary {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1.5rem;
+  }
+  
+  .order-summary h4 {
+    margin-bottom: 1rem;
+  }
+  
+  .order-summary p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Payment Methods */
+  .form-check-label {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .form-control {
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    padding: 0.75rem;
+  }
+  
+  .btn {
+    border-radius: 0.25rem;
+    padding: 0.75rem 1.25rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 767.98px) {
+    .col-md-8,
+    .col-md-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
+  

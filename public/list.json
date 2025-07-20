@@ -1,0 +1,84 @@
+[
+    {
+        "name": "novel",
+        "id": 100,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 101,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 102,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 103,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 1034,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 108,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 1077,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      },
+      {
+        "name": "novel",
+        "id": 1098,
+        "title": "Paid Book Title",
+        "category": "Fiction",
+        "price": 15.99,
+        "currency": "USD",
+        "description": "Description of the paid book. This book offers an engaging story with captivating characters.",
+        "image": "https://example.com/path/to/paid-book-image.jpg"
+      }
+
+    
+      ]
